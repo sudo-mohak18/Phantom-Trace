@@ -1,8 +1,8 @@
-# PHANTOMTRACE 🛡️
+# PHANTOM-TRACE 🛡️
 
 > **"Every suspicious link has a story. Discover it before it's too late."**
 
-PHANTOMTRACE is an enterprise-grade threat intelligence investigation and phishing forensics platform designed for SOC analysts, penetration testers, security researchers, and security-conscious individuals. It combines deep heuristic static analysis, DNS intelligence, Internationalized Domain Name (IDN) homoglyph detection, Shannon entropy profiling, brand impersonation detection, and conversational AI threat triage powered by **Gemini 3.8 Flash**.
+PHANTOM-TRACE is an enterprise-grade threat intelligence investigation and phishing forensics platform designed for SOC analysts, penetration testers, security researchers, and security-conscious individuals. It combines deep heuristic static analysis, DNS intelligence, Internationalized Domain Name (IDN) homoglyph detection, Shannon entropy profiling, brand impersonation detection, and conversational AI threat triage powered by **Gemini 3.8 Flash**.
 
 ---
 
@@ -83,7 +83,7 @@ PHANTOMTRACE enforces strict Server-Side Request Forgery (SSRF) controls to prev
 ```bash
 # 1. Clone the repository
 git clone https://github.com/your-username/phantomtrace.git
-cd phantomtrace
+cd phantom-trace
 
 # 2. Install dependencies
 npm install
